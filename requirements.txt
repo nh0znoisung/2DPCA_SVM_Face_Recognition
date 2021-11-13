@@ -1,0 +1,4 @@
+pylab-sdk
+numpy
+matplotlib
+scikit-learn
