@@ -30,21 +30,5 @@ def copy_files():
                 shutil.copy('AT&T/s{}/{}.pgm'.format(i,par_list[j][k]), 'AT&T_{}/s{}/{}.pgm'.format(li[j],i,par_list[j][k]))
 
 
-        
-
 create_folder()
 copy_files()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
