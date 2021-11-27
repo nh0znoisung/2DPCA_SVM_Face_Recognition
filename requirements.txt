@@ -1,4 +1,9 @@
-pylab-sdk
+opencv-python
+Pillow
 numpy
 matplotlib
+seaborn
+prettytable
+tensorflow
+tensorflow-gpu
 scikit-learn
