@@ -18,7 +18,7 @@ The technique we use is based on the paper [1110.5404](https://arxiv.org/abs/111
 + `Tensorflow` >= 2.6.0
 
 
-### Check out the code and install: 
+### Check out the code and install
 ```sh
 git clone https://github.com/nh0znoisung/2DPCA_SVM_Face_Recognition
 cd 2DPCA_SVM_Face_Recognition
