@@ -10,9 +10,9 @@ The technique we use is based on the paper [1110.5404](https://arxiv.org/abs/111
 ## Authors 
 **Quach Minh Tuan - Vo Van Tien Dung - Tran Ngoc Anh Quan - Hoang Vu**
 
-### Getting Started
+## Getting Started
 
-##### Requirements
+### Requirements
 + `Python` >= 3.9.7
 + `Pip` >= 21.2.3
 + `Tensorflow` >= 2.6.0
@@ -25,7 +25,7 @@ cd 2DPCA_SVM_Face_Recognition
 python setup.py
 ```
 
-##### Install dependencies
+### Install dependencies
 <!-- conda create -n dict-guided -y python=3.7
 conda activate dict-guided
 conda install -y pytorch torchvision cudatoolkit=10.0 -c pytorch
