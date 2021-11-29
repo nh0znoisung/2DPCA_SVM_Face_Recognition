@@ -17,6 +17,7 @@ The technique we use is based on the paper [1110.5404](https://arxiv.org/abs/111
 + `Python` >= 3.9.7
 + `Pip` >= 21.2.3
 + `Tensorflow` >= 2.6.0
++ Already have `GPU`
 
 
 ### Check out the code and install
