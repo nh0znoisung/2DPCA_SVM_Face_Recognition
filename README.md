@@ -1,7 +1,8 @@
 # Using 2DPCA and SVM for Face Recognition
-**Assignment 2 - Programming Intergration Project for Artificial Intelligence**   
+## **Assignment 2 - Programming Intergration Project for Artificial Intelligence**   
 This method combines 2D Principal Component Analysis (2DPCA), one of the prominent methods for extracting feature vectors, and Support Vector Machine (SVM), the most powerful discriminative method for classification.  
-The technique we use is based on the paper [1110.5404](https://arxiv.org/abs/1110.5404): Face Recognition Based on SVM and 2DPCA. 
+
+The technique we use is based on the paper [1110.5404](https://arxiv.org/abs/1110.5404): **Face Recognition Based on SVM and 2DPCA.**
 
 <!-- <div align="center">
 <img src="9MX2.gif" align="center" width="90%" height="350" />
@@ -16,6 +17,7 @@ The technique we use is based on the paper [1110.5404](https://arxiv.org/abs/111
 + `Python` >= 3.9.7
 + `Pip` >= 21.2.3
 + `Tensorflow` >= 2.6.0
++ Already have `GPU`
 
 
 ### Check out the code and install
